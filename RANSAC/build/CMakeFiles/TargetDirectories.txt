@@ -1,0 +1,3 @@
+/home/flk/桌面/代码/练习代码/untitled1/build/CMakeFiles/edit_cache.dir
+/home/flk/桌面/代码/练习代码/untitled1/build/CMakeFiles/rebuild_cache.dir
+/home/flk/桌面/代码/练习代码/untitled1/build/CMakeFiles/test.dir
